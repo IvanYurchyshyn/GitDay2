@@ -1,3 +1,5 @@
+package WebPage;
+
 public class ContactPage {
 
     // facebook
