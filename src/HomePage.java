@@ -7,4 +7,6 @@ public class HomePage {
     // home page
 
     //added a logo
+
+    // finished home page
 }
